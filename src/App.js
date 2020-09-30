@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import Increment from './Increment';
+import StatePatterns from './StatePatterns';
 
 function App() {
   return (
     <div className="App">
      <h1>Hello WOrld !!!</h1>
-     <Increment />
+     <StatePatterns />
     </div>
   );
 }
